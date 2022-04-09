@@ -3,6 +3,7 @@
 #### 2. Saved model file: Inside the repo
 #### 3. Link to team google drive folder: https://drive.google.com/drive/folders/1YgRqVET8mfLBOCLA_c_2UnZn1fn4d-ai
 #### 4. Dataset shared drive link: https://drive.google.com/drive/u/0/folders/13H0nKtL7nQpGmt66YYI4VvVW6TqhsYA0 
+#### 5. Narration Video shared drive link: https://drive.google.com/file/d/1LwKvWV0fdFiG1hZWwTMexZflbXrvXjJ6/view?usp=sharing 
 
 #### Visulaizing the Density plot for the properties listed based on the Price of property.
 <img width="981" alt="image" src="https://user-images.githubusercontent.com/91119374/159429601-1a93b824-08ac-4646-8130-e6f01bc63c8d.png">
